@@ -1,0 +1,28 @@
+/* Customize your CSS here */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.carousel-item img {
+    max-width: 100%;
+    max-height: auto;
+    
+}
+.carousel-inner{
+    height: 50px;
+    width: 50px;
+}
+.carousel-inner active{
+    max-width: 50%;
+    max-height: 50%;
+    
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #fff;
+}
+
+
+footer {
+    margin-top: 50px;
+}
